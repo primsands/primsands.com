@@ -18,13 +18,16 @@ h3 {
 font: 1.25em Arial, Helvetica, sans-serif;
 }
 a:link {
+text-decoration: none;
 font-family: Arial, Helvetica, sans-serif;
 color: #000000;
 }
 a:visited {
+text-decoration: none;
 color: #000000;
 }
 a:hover {
+text-decoration: none;
 background: #adadad;
 font-style: oblique;
 }

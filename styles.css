@@ -78,7 +78,6 @@ input {
   float: left;
   clear: both;
   border: 1px solid #000;
-  background: red;
   opacity: 1;
   overflow: hidden;
   transform: translateY(0);
@@ -100,14 +99,11 @@ input {
   transition: all 1.5s linear, margin 0s linear 1.5s;
 }
 
-/* example 3 */
 .ex3 .hide3 {
   width: 50%;
   display: table;
-  height: 150px; /* any arbitrary height but best at the minimum initial height you would want. */
+  height: 150px; 
   overflow: hidden;
-  background: red;
-  transition: all 0.5s ease;
   border-left: 1px solid #000;
   border-right: 1px solid #000;
 }
